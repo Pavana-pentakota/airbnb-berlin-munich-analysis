@@ -1,4 +1,4 @@
-Raw data is not stored in this repository because of its size. 
-Source: Inside Airbnb (https://insideairbnb.com/get-the-data/). 
-Berlin scraped 19 Sep 2026, Munich scraped 23 Sep 2026. 
-Files used: listings.csv.gz and reviews.csv.gz for each city.
+- Raw data is not stored in this repository because of its size. 
+- Source: Inside Airbnb (https://insideairbnb.com/get-the-data/). 
+- Berlin scraped 19 Sep 2026, Munich scraped 23 Sep 2026. 
+- Files used: listings.csv.gz and reviews.csv.gz for each city.
