@@ -1,11 +1,10 @@
 # Data-quality log
 
 Every problem I find in the raw data, what I decided, and why.
-Fill in the numbers from your own queries. Add a row for every new problem.
 
 | # | Table / column | Problem found | Rows affected | Decision | Why |
 |---|---|---|---|---|---|
-| 1 | raw_listings / id | Check for repeated listing ids | (Q2 result) | Keep as is if none | A primary key needs unique ids |
+| 1 | raw_listings / id | Check for repeated listing ids | 0 | Keep all rows, no cleaning needed | Ids are unique, so listing_id can be the primary key |
 | 2 | raw_listings / price | Stored as text with a "$" sign and commas | all rows with a price | Remove "$" and ",", convert to number | Text cannot be averaged or sorted correctly |
 | 3 | raw_listings / price | Missing price | (Q3: price_missing) | Keep the listing, set price_valid = 0 | The listing is still useful for other KPIs |
 | 4 | raw_listings / price | Price of 0 or extremely high | (count after cleaning) | Flag with price_valid / price_outlier, do not delete | Flagging keeps the data and lets me choose later |
