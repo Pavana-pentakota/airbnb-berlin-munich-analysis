@@ -52,6 +52,6 @@ Multi-listing hosts own 61.2% of Berlin's analysis set and 39.4% of Munich's.
 
 Reviews are a rough sign of guest stays, not a count of bookings.
 
-## First direction for the recommendation (to confirm in Tableau)
+## First direction for the recommendation
 
 Berlin looks stronger per listing. Entire homes for 2 to 4 guests in the high-revenue Berlin neighbourhoods look like the best starting point. Munich needs more care: higher prices, but much lower estimated revenue.
