@@ -16,4 +16,4 @@
 - **Assumptions (v1):** revenue is estimated, not real; a “professional host” is a host with more than one listing (threshold may change); prices are in the local currency.
 - **Limitations:** one snapshot per city; availability is not the same as bookings.
 - **Out of scope:** the calendar file, a price-prediction model.
-- **Deliverables:** SQL scripts and ERD, Tableau dashboard, Power BI report, README.
+- **Deliverables:** SQL scripts and ERD, Tableau dashboard, README.
