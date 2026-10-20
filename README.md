@@ -4,7 +4,7 @@
 
 I analysed public Airbnb data for Berlin and Munich to answer a business question for a fictional client, *Sophie*, who runs a small property-management company and wants to start short-term rentals: **where should she start, and what should she offer?**
 
-> **Dashboards (Tableau):** 
+> **Dashboards (Tableau):**
 
 ![KPI scorecard](dashboards/01_kpi_scorecard.png)
 ![Market View](dashboards/02_market_view.png)
