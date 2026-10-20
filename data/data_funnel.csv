@@ -1,0 +1,5 @@
+step,stage,listings
+1,"All listings",19869
+2,"With a usable price",13237
+3,"Price not an outlier",13102
+4,"Short-term stay (30 nights or less)",11465

@@ -1,0 +1,21 @@
+city,neighbourhood,listings,avg_price,avg_est_revenue,revenue_rank
+Berlin,"Schloß Charlottenburg",57,204,39525,1
+Berlin,"Prenzlauer Berg Südwest",210,226,37612,2
+Berlin,Helmholtzplatz,117,199,35838,3
+Berlin,"Moabit Ost",106,189,35262,4
+Berlin,Regierungsviertel,73,219,35161,5
+Berlin,"Prenzlauer Berg Nord",82,189,34434,6
+Berlin,Alexanderplatz,517,206,32705,7
+Berlin,"südliche Luisenstadt",141,175,30024,8
+Berlin,"Prenzlauer Berg Süd",148,185,29953,9
+Berlin,"Tempelhofer Vorstadt",274,177,29777,10
+Munich,Altstadt-Lehel,191,385,24953,1
+Munich,Ludwigsvorstadt-Isarvorstadt,629,328,19612,2
+Munich,Maxvorstadt,343,300,18905,3
+Munich,Moosach,110,216,13351,4
+Munich,Schwabing-Freimann,205,258,12326,5
+Munich,Bogenhausen,206,237,11216,6
+Munich,Feldmoching-Hasenbergl,84,206,11161,7
+Munich,Laim,141,232,11144,8
+Munich,Ramersdorf-Perlach,204,209,11024,9
+Munich,Schwabing-West,242,256,10608,10
