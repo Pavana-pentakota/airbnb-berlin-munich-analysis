@@ -1,5 +1,6 @@
 USE air_bnb;
 
+
 -- Q1. Are all rows there? 
 SELECT city, COUNT(*) AS listings
 FROM raw_listings
