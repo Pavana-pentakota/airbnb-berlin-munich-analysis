@@ -1,12 +1,4 @@
--- =====================================================================
--- 07_export_top_neighbourhoods.sql   |   Ranking file for Tableau
--- Top 10 neighbourhoods per city by average estimated yearly revenue.
--- Only neighbourhoods with at least 30 listings count, because a few
--- listings can give a misleading average.
--- ROW_NUMBER() ... PARTITION BY city numbers the neighbourhoods 1, 2, 3...
--- separately inside each city, from the highest revenue down.
--- Export: run the query, click Export in the Result Grid, choose CSV,
--- save as top_neighbourhoods.csv
+-- Export: top_neighbourhoods.csv
 -- =====================================================================
 USE air_bnb;
 
