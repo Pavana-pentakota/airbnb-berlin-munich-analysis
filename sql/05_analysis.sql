@@ -5,9 +5,7 @@ USE air_bnb;
 -- A listing is in the set when it has a usable price (price_valid = 1),
 -- the price is not an outlier (price_outlier = 0) and it is a
 -- short-term rental (is_short_term = 1).
--- A VIEW is a saved question. It does not copy data, it just remembers
--- the filter, so every query below can start from the same group.
--- Run this part once (whole statement).
+-- A VIEW is a saved question. 
 -- ---------------------------------------------------------------------
 DROP VIEW IF EXISTS v_analysis_listings;
 CREATE VIEW v_analysis_listings AS
