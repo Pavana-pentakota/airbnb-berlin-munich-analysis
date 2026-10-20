@@ -1,5 +1,6 @@
 USE air_bnb;
 
+
 UPDATE clean_listings
 SET
     -- price_valid: 1 = usable price, 0 = price missing or zero
