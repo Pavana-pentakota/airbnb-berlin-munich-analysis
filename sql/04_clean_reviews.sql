@@ -1,4 +1,5 @@
 USE air_bnb;
+
 -- DROP TABLE IF EXISTS removes the old version first.
 DROP TABLE IF EXISTS clean_reviews;
 
