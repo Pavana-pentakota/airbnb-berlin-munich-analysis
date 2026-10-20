@@ -1,5 +1,6 @@
 USE air_bnb;
 
+
 DROP TABLE IF EXISTS clean_listings;
 
 CREATE TABLE clean_listings AS
