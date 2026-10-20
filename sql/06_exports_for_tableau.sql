@@ -1,11 +1,3 @@
--- =====================================================================
--- 06_exports_for_tableau.sql   |   Two files for Tableau Public
--- IMPORTANT before exporting: in Workbench, change the dropdown
--- "Limit to 1000 rows" (top toolbar) to "Don't Limit". Otherwise the
--- export contains only 1000 rows.
--- How to export: run the query, then in the Result Grid click "Export",
--- choose CSV, and save the file in your project folder (data/clean).
--- =====================================================================
 USE air_bnb;
 
 -- EXPORT 1: one row per listing (save as listings_tableau.csv)
